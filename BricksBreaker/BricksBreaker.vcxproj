@@ -160,6 +160,7 @@
     <ClInclude Include="ItemUpgrate.h" />
     <ClInclude Include="Ladrillo.h" />
     <ClInclude Include="LadrilloIrrompible.h" />
+    <ClInclude Include="Pila.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
